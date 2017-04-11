@@ -1,10 +1,10 @@
-# test_animals
+# Test Animals
 
-##Overview
+## Overview
 
 As a team, we'll be building unit test coverage for all the functionality of the code in the animal module. We'll discuss how writing tests often affect the implementation code, and how to think bout covering edge cases in your test suit.
 
-##Instructions
+## Instructions
 
 Write test cases to verify the I/O of the following methods of Animal and Dog.
 
